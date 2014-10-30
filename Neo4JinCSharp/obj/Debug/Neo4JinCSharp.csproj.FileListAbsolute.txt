@@ -1,0 +1,16 @@
+C:\Users\Conor\Desktop\Neo4JinCSharp\Neo4JinCSharp\bin\Debug\Neo4JinCSharp.exe.config
+C:\Users\Conor\Desktop\Neo4JinCSharp\Neo4JinCSharp\bin\Debug\Neo4JinCSharp.exe
+C:\Users\Conor\Desktop\Neo4JinCSharp\Neo4JinCSharp\bin\Debug\Neo4JinCSharp.pdb
+C:\Users\Conor\Desktop\Neo4JinCSharp\Neo4JinCSharp\obj\Debug\Neo4JinCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Conor\Desktop\Neo4JinCSharp\Neo4JinCSharp\obj\Debug\Neo4JinCSharp.exe
+C:\Users\Conor\Desktop\Neo4JinCSharp\Neo4JinCSharp\obj\Debug\Neo4JinCSharp.pdb
+C:\Users\Conor\Desktop\Neo4JinCSharp\Neo4JinCSharp\bin\Debug\Neo4jClient.dll
+C:\Users\Conor\Desktop\Neo4JinCSharp\Neo4JinCSharp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Conor\Desktop\Neo4JinCSharp\Neo4JinCSharp\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Conor\Desktop\Neo4JinCSharp\Neo4JinCSharp\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Conor\Desktop\Neo4JinCSharp\Neo4JinCSharp\bin\Debug\Neo4jClient.pdb
+C:\Users\Conor\Desktop\Neo4JinCSharp\Neo4JinCSharp\bin\Debug\Neo4jClient.xml
+C:\Users\Conor\Desktop\Neo4JinCSharp\Neo4JinCSharp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Conor\Desktop\Neo4JinCSharp\Neo4JinCSharp\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Conor\Desktop\Neo4JinCSharp\Neo4JinCSharp\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Conor\Desktop\Neo4JinCSharp\Neo4JinCSharp\obj\Debug\Neo4JinCSharp.csproj.App.config
